@@ -1,0 +1,35 @@
+{
+  "name": "Smesh Bros - Till",
+  "symbol": "SBT",
+  "seller_fee_basis_points": 700,
+  "image": "0.png",
+  "external_url": "https://blockasset.co/",
+  "description": "The official Smesh Bros NFT collection by Dosbrak featuring 2000 NFTs each of Khamzat Chimaev and Darren Till exclusively on Blockasset.",
+  "properties": {
+    "creators": [
+      {
+        "address": "DayVVXeu12t7KctXbEazTG3KzSPTEVvycDFFAZhnVFMK",
+        "share": 75,
+        "verified": true
+      },
+      {
+        "address": "Mhzpd8kQcz4pYzutR7F1H7DJevTUqHYB77DvveF5gsm",
+        "share": 15
+      },
+      { "address": "5KHf97tg6mJU3V26BJLiRS8ghJtAmcbZpkqGeMdX1Rby", "share": 10 }
+    ],
+    "files": [{ "uri": "0.png", "type": "image/png" }]
+  },
+  "uri": "https://fodjlkhw6alsu4xj3zkoargc3u5ner4nsvi3xoldgfyibzoq.arweave.net/K4aVqP_bwF_ypy6d5U4ETC3TrSR42VUbu5YzFwgOXQI",
+  "attributes": [
+    { "trait_type": "EDITION", "value": "0" },
+    { "trait_type": "BACKGROUNDS", "value": "Gorilla Jungle" },
+    { "trait_type": "BASE", "value": "Middle Fingers" },
+    { "trait_type": "CHAINS", "value": "Rawdog Chain" },
+    { "trait_type": "MOUTH", "value": "Silver Grill" },
+    { "trait_type": "EYES", "value": "Bloodshot" },
+    { "trait_type": "FACE", "value": "Bloody Face" },
+    { "trait_type": "HEAD", "value": "Bucket Hat" },
+    { "trait_type": "LEGEND", "value": "Smesh Bros - Till" }
+  ]
+}
